@@ -1,0 +1,19 @@
+{
+    "name": "FooBar",
+    "alias": "foobar",
+    "description": "",
+    "version": "1.0.0",
+    "category": "payment-gateway",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\FooBar\\Providers\\FooBarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": [],
+    "settings": []
+}
